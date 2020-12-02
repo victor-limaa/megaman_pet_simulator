@@ -1,0 +1,22 @@
+.field3 {
+    background-color: aqua;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    width: 350px;
+    justify-content: center;
+}
+
+.field2 {
+    background-color: aqua;
+    display: grid;
+    grid-template-columns: auto auto;
+    width: 350px;
+    justify-content: center;
+}
+
+.area {
+    width: 100px;
+    height: 100px;
+    background-color: bisque;
+    margin: 10px;
+}
